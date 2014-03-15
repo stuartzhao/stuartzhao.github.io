@@ -4,10 +4,14 @@ title: Jekyll Ruby Mrkdown
 category: Linux-git
 author: Stuart
 
-excerpt: <a href="http://en.wikipedia.org/wiki/Markdown">Introduction to Jekyll</a>. <a href="https://www.ruby-lang.org/zh_cn/documentation/quickstart/">Learn Ruby from simple examples in 20 minutes</a>. <a href="http://en.wikipedia.org/wiki/Markdown">Markdown in Wiki</a>.
+excerpt:Introduction to Jekyll;[Learn Ruby from simple examples in 20 minutes][Ruby]; [Markdown in Wiki][Markdown].
 
 ---
 
 Shopping list:
 * apples
 * oranges
+
+[Markdown]: http://en.wikipedia.org/wiki/Markdown
+[Ruby]:https: //www.ruby-lang.org/zh_cn/documentation/quickstart/
+
