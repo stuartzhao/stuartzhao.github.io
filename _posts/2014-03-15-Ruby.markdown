@@ -7,9 +7,6 @@ excerpt: Introduction to Jekyll; Learn Ruby from simple examples in 20 minutes; 
 
 ---
 
-Shopping list:
-* apples
-* oranges
 
 [Learn Ruby from simple examples in 20 minutes][Ruby] ; [Markdown in Wiki][Markdown]
 
