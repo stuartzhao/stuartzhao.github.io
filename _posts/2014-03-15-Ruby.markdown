@@ -11,6 +11,8 @@ Shopping list:
 * apples
 * oranges
 
+[Learn Ruby from simple examples in 20 minutes][Ruby] ; [Markdown in Wiki][Markdown]
+
 [Markdown]: http://en.wikipedia.org/wiki/Markdown/
 [Ruby]: https://www.ruby-lang.org/zh_cn/documentation/quickstart/
 
