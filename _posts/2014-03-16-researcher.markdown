@@ -15,7 +15,7 @@ excerpt: Lists of homepages.
 #### Conference and Journal
 1. [ACM Sigcomm][C1]
 2. [CCF Rank][C2]
-3. [无线网络领域国际会议/期刊排名][C3]
+3. [无线网络领域国际会议 期刊排名][C3]
 4  [Networking Conferences Statistics][C4]
 
 
