@@ -13,5 +13,5 @@ Shopping list:
 * oranges
 
 [Markdown]: http://en.wikipedia.org/wiki/Markdown
-[Ruby]:https: //www.ruby-lang.org/zh_cn/documentation/quickstart/
+[Ruby]: https://www.ruby-lang.org/zh_cn/documentation/quickstart/
 
