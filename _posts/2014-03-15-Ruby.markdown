@@ -7,8 +7,9 @@ excerpt: Introduction to Jekyll; Learn Ruby from simple examples in 20 minutes; 
 
 ---
 
-
-[Learn Ruby from simple examples in 20 minutes][Ruby] ; [Markdown in Wiki][Markdown] [Markdown syntax][ms] ;
+1. [Learn Ruby from simple examples in 20 minutes][Ruby]; 
+2. [Markdown in Wiki][Markdown]
+3. [Markdown syntax][ms] ;
 
 [Markdown]: http://en.wikipedia.org/wiki/Markdown/
 [Ruby]: https://www.ruby-lang.org/zh_cn/documentation/quickstart/
