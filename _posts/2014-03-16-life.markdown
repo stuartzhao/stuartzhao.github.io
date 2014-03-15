@@ -19,7 +19,7 @@ add nice icons into your pages by using css tags.
 1. [英和字典][J1]
 2. [日语常用100句][J2]
 3. [动词变形记忆小口诀][J3]
-4. [Links for Japanese language learning][J4]
+4. [动词变形记忆小口诀][J3] [Links for Japanese language learning][J4]
 
 {% highlight html %}
 <i class="icon-home"></i>
