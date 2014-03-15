@@ -3,7 +3,7 @@ layout: post
 title: Jekyll Ruby Mrkdown
 category: Linux-git
 
-excerpt: Introduction to Jekyll; [Learn Ruby from simple examples in 20 minutes;][Ruby] [Markdown in Wiki.][Markdown]
+excerpt: Introduction to Jekyll; Learn Ruby from simple examples in 20 minutes; Markdown in Wiki.
 
 ---
 
