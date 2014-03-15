@@ -3,7 +3,7 @@ layout: post
 title: Code Snippets
 category: Design
 author: John Smith
-external-url:https://www.ruby-lang.org/zh_cn/documentation/quickstart/
+
 excerpt: Quick overview on how to post code snippets using Liquid tags and how to escape or not escape markdown and HTML in your blog entries. 
 
 ---
