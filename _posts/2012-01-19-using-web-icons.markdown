@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Using the Web Icons
+title: Life in Japan Traffic Information Japanese Shopping
 category: life
 
-excerpt: Quick overview on how to use the Typicon web font icons included with this template. 
+excerpt: All kinds of life information in Japan. 
 
 ---
 
