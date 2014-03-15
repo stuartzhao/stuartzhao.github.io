@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll Ruby Mrkdown
-category: Linux_git
+category: meta
 author: Stuart
 
 excerpt: <a href="http://en.wikipedia.org/wiki/Markdown">Introduction to Jekyll.</a> <a href="https://www.ruby-lang.org/zh_cn/documentation/quickstart/">Learn Ruby from simple examples in 20 minutes.</a>
