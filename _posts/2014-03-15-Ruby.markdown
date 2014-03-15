@@ -1,0 +1,9 @@
+---
+layout: post
+title: Ruby experience in 20 minutes
+category: Linux_git
+author: Stuart
+
+excerpt: <a href="https://www.ruby-lang.org/zh_cn/documentation/quickstart/">Learn Ruby in 20 minutes.</a>
+
+---
