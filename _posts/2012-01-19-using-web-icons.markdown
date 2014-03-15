@@ -11,9 +11,13 @@ excerpt: All kinds of life information in Japan.
 add nice icons into your pages by using css tags. 
 
 *** To add an icon somewhere in the template simply do: ***
-#### Traffic information:
+#### Traffic information
 1. Sendai
 2. Highway bus
+
+#### Japanese Information
+1. [日语常用100句][J1]
+2. [动词变形记忆小口诀][J2]
 
 {% highlight html %}
 <i class="icon-home"></i>
@@ -26,7 +30,8 @@ This will insert a home icon, just as the one seen in the sidebar. The available
 These should work in all the browsers, all the way down to and including IE7, but not IE6.
 
 
-
+[J1]: http://www.go2hn.com/richang/ryrcyy-10015.htm
+[J2]: http://www.pkusky.net/riyuxuexi/2011-05-19/345.html
 [ty]: http://typicons.com/
 [fo]: http://fontello.com/
 
