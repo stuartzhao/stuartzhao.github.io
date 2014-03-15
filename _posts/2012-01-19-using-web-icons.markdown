@@ -1,7 +1,7 @@
 ---
 layout: post
 title: using web icons
-category: life
+category: linux-git
 
 excerpt: All kinds of life information in Japan. 
 
