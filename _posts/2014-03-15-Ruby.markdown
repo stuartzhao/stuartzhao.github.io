@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll, Ruby, Markdown
+title: Jekyll Ruby Mrkdown
 category: Linux_git
 author: Stuart
 
