@@ -6,7 +6,7 @@ title: Life in Japan
     <section>
         <table>
             {% for post in site.posts %}
-            {% if post.category ="life" %}
+            {% if post.category == "life" %}
             <tr>
                 <td><i class="icon-clock"></i> <time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></td>  
                 <td><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></td>
