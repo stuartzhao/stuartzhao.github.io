@@ -11,6 +11,9 @@ excerpt: All kinds of life information in Japan.
 add nice icons into your pages by using css tags. 
 
 *** To add an icon somewhere in the template simply do: ***
+* Traffic information:
+1. Sendai
+2. Highway bus
 
 {% highlight html %}
 <i class="icon-home"></i>
