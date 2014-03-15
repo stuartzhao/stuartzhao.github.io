@@ -4,7 +4,7 @@ title: Guest Posts
 category: Meta
 author: John Smith
 
-excerpt: How to quickly create guest blogs with a different author. 
+excerpt: <a href="https://www.ruby-lang.org/zh_cn/documentation/quickstart/">How to quickly create guest blogs with a different author.</a>
 
 ---
 
