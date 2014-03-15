@@ -7,10 +7,10 @@ excerpt: All kinds of life information in Japan.
 
 ---
 
-This template uses [Typicons][ty] web font, provided by [Fontello][fo] font bundling service. It allows you to quickly
+ [Typicons][ty] web font, provided by [Fontello][fo] font bundling service. It allows you to quickly
 add nice icons into your pages by using css tags. 
 
-To add an icon somewhere in the template simply do:
+*** To add an icon somewhere in the template simply do: ***
 
 {% highlight html %}
 <i class="icon-home"></i>
