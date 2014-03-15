@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Life in Japan Traffic Information Japanese Shopping
+title: Traffic Japanese Shopping
 category: life
 
 excerpt: All kinds of life information in Japan. 
@@ -11,7 +11,7 @@ excerpt: All kinds of life information in Japan.
 add nice icons into your pages by using css tags. 
 
 *** To add an icon somewhere in the template simply do: ***
-* Traffic information:
+#### Traffic information:
 1. Sendai
 2. Highway bus
 
