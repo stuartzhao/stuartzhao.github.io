@@ -1,0 +1,17 @@
+---
+layout: post
+title: Jekyll Ruby Mrkdown
+category: Linux-git
+
+excerpt: Introduction to Jekyll; Learn Ruby from simple examples in 20 minutes; Markdown in Wiki.
+
+---
+
+1. [Learn Ruby from simple examples in 20 minutes][Ruby]; 
+2. [Markdown in Wiki][Markdown]
+3. [Markdown syntax][ms] ;
+
+[Markdown]: http://en.wikipedia.org/wiki/Markdown/
+[Ruby]: https://www.ruby-lang.org/zh_cn/documentation/quickstart/
+[ms]: http://daringfireball.net/projects/markdown/syntax/
+
